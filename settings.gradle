@@ -1,0 +1,1 @@
+include ':app', ':translatedemo', ':myapplication'
